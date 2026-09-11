@@ -1,0 +1,1173 @@
+{
+  "updatedAt": "2026-09-11T12:32:00Z",
+  "data": [
+    {
+      "code": "7019-2",
+      "price": 5770,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-3",
+      "price": 7689,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-4",
+      "price": 12370,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-8",
+      "price": 2607,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-9",
+      "price": 5082,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-10",
+      "price": 5082,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-5",
+      "price": 3751,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-6",
+      "price": 5313,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-7",
+      "price": 9999,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-11",
+      "price": 3751,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-12",
+      "price": 2431,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-14",
+      "price": 2343,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-35",
+      "price": 3718,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-33",
+      "price": 1760,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-34",
+      "price": 2948,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-27",
+      "price": 3487,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-30",
+      "price": 3487,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-28",
+      "price": 2079,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-29",
+      "price": 2277,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-21",
+      "price": 1452,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-22",
+      "price": 2904,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-31",
+      "price": 1188,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-32",
+      "price": 2376,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-25",
+      "price": 2904,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-26",
+      "price": 5808,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-23",
+      "price": 1650,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-24",
+      "price": 3300,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-15",
+      "price": 2046,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-16",
+      "price": 4092,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-19",
+      "price": 2145,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-20",
+      "price": 4290,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-17",
+      "price": 2343,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-18",
+      "price": 4686,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-37",
+      "price": 7513,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-41",
+      "price": 7519,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-42",
+      "price": 9994,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-43",
+      "price": 15136,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-36",
+      "price": 5011,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-40",
+      "price": 4829,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-38",
+      "price": 4829,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7019-13",
+      "price": 2662,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-1",
+      "price": 4428,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-2",
+      "price": 5990,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-3",
+      "price": 7640,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-4",
+      "price": 11451,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-14",
+      "price": 2475,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-15",
+      "price": 4950,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-16",
+      "price": 7425,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-13",
+      "price": 3097,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-11",
+      "price": 2970,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-12",
+      "price": 2959,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-6",
+      "price": 1287,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-5",
+      "price": 1056,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-7",
+      "price": 1650,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-8",
+      "price": 1650,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-9",
+      "price": 1518,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7007-10",
+      "price": 2277,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-1",
+      "price": 4428,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-2",
+      "price": 5990,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-3",
+      "price": 7640,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-4",
+      "price": 11451,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-5",
+      "price": 1056,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-6",
+      "price": 1287,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-7",
+      "price": 1650,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-8",
+      "price": 1650,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-9",
+      "price": 1518,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-10",
+      "price": 2277,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-11",
+      "price": 2970,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-12",
+      "price": 2959,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-13",
+      "price": 3097,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-14",
+      "price": 2475,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-15",
+      "price": 4950,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "7008-16",
+      "price": 7425,
+      "availability": true,
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 3,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "WH-MAIN",
+          "stock": 20
+        }
+      ]
+    }
+  ]
+}
